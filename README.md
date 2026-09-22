@@ -1,6 +1,6 @@
 # Ceyda Akın
 
-**Mobile & AI Engineer** | Computer Engineering Student, Istanbul Technical University
+**Mobile & AI Engineer** | B.Sc. Computer Engineering, Istanbul Technical University (Expected 2027)
 
 ---
 
