@@ -25,7 +25,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,python,go,dart,c,cpp,cs,swift,kotlin,haskell,julia&perline=12" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,flutter,vite,tailwind,html,css,nodejs,postgres,redis,firebase&perline=12" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp&perline=12" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,git,github,githubactions,linux,bash,androidstudio,vscode&perline=12" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,vite,tailwind,nodejs,postgres,redis,firebase&perline=12" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions&perline=12" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=12" />
 </p>
